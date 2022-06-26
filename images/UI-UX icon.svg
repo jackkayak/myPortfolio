@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="83.845" height="97.43" viewBox="0 0 83.845 97.43">
+  <g id="UI_UX_icon" data-name="UI/UX icon" transform="translate(-488.546 -3206.708)">
+    <path id="Path_1" data-name="Path 1" d="M8395.392,2706.121l18.428,19.68v23.885l39.987-56.089Z" transform="translate(-7902 546.638)" fill="none" stroke="#f96900" stroke-width="5"/>
+    <line id="Line_1" data-name="Line 1" x2="33.03" y2="56.082" transform="translate(536.093 3212.333)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(532.391 3206.708)" fill="#fff" stroke="#707070" stroke-width="1">
+      <ellipse cx="3.5" cy="4" rx="3.5" ry="4" stroke="none"/>
+      <ellipse cx="3.5" cy="4" rx="3" ry="3.5" fill="none"/>
+    </g>
+    <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(565.391 3264.708)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="3.5" cy="3.5" r="3.5" stroke="none"/>
+      <circle cx="3.5" cy="3.5" r="3" fill="none"/>
+    </g>
+  </g>
+</svg>
