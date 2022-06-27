@@ -610,6 +610,7 @@ section {
   align-items: center;
   justify-content: center;
   background-color: #0B525B;
+  
 }
 
 .about-section{
@@ -625,10 +626,11 @@ section {
   float: right;
   background-color: #0B525B;
   padding: 150px;
+  box-shadow:0 5px 35px rgb(0 0 0 / 45%);
 }
 
 .inner-container h1{
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   font-size: 30px;
   font-weight: 900;
   color: white;
@@ -640,7 +642,21 @@ section {
   color: white;
   line-height: 30px;
   text-align: justify;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
+}
+
+.download-btn{
+  padding: .75rem 1.5rem;
+  font-size: 1.1em;
+  border-radius: 18px;
+  background-color: white;
+  color: black;
+  
+}
+
+.download-btn:hover{
+  background-color: #C9F299;
+  color: #0e3959;
 }
 
 .mySkills{
@@ -648,6 +664,8 @@ section {
   justify-content: space-between;
   font-weight: 700;
   font-size: 1.1em;
+  margin-top: 20px;
+  margin-bottom: 50px;
   color: #C9F299;
 }
 
